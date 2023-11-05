@@ -1,0 +1,7 @@
+targets:
+  - esp32
+description: component example of esp32
+dependenies:
+    LED_class:
+      git: https://github.com/RatchanonBusaracome/IOT_WEEK02 //ทำการเลือก Repo
+      path: components/LED //ทำการเลือก patth หรือโฟล์เดอร์ที่ต้องการ
